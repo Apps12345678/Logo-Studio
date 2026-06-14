@@ -1,0 +1,6 @@
+{
+  "name": "Logo Studio",
+  "description": "A powerful and convenient vector and sketch-based logo editor with direct shape control, font customisation, and layer drawing capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
